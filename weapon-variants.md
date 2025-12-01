@@ -1,6 +1,6 @@
 ---
 title: Rare Weapon Variants
-description: Discover all the rare weapon variants and their drop chances.
+description: Discover all the rare weapon variants and their drop chances!
 category: Advanced
 author: LordMerc
 readTime: 6

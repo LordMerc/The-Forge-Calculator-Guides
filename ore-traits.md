@@ -1,6 +1,6 @@
 ---
 title: Complete Ore Traits Guide
-description: A comprehensive list of all ore traits and their effects on your weapons and armor.
+description: A comprehensive list of all ore traits and their effects on your weapons and armor!
 category: Reference
 author: LordMerc
 readTime: 8

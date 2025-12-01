@@ -1,6 +1,6 @@
 ---
 title: Getting Started with Forging
-description: Learn the basics of the forge system, ore types, and how to craft your first weapons.
+description: Learn the basics of the forge system, ore types, and how to craft your first weapons!
 category: Beginner
 author: LordMerc
 readTime: 5
