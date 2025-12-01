@@ -1,5 +1,5 @@
 ---
-title: Rare Weapon Variants
+title: Rare Weapon Variants!
 description: Discover all the rare weapon variants and their drop chances!
 category: Advanced
 author: LordMerc
@@ -58,3 +58,4 @@ However, using better ores means your rare variant will have:
 2. Mix in high-rarity ores for better stats
 3. Craft repeatedly for rare variant chances
 4. Track your drops to understand probabilities
+
