@@ -1,4 +1,4 @@
----
+--
 title: Rare Weapon Variants!
 description: Discover all the rare weapon variants and their drop chances!
 category: Advanced
@@ -6,7 +6,7 @@ author: LordMerc
 readTime: 6
 heroImage: images/hero.jpg
 ---
-
+-i break the stuff
 # Rare Weapon Variants
 
 Each weapon class has multiple variants with different rarities and stats. This guide covers how to obtain rare variants.
@@ -58,4 +58,5 @@ However, using better ores means your rare variant will have:
 2. Mix in high-rarity ores for better stats
 3. Craft repeatedly for rare variant chances
 4. Track your drops to understand probabilities
+
 
