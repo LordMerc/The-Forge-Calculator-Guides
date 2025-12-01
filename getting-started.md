@@ -5,6 +5,7 @@ category: Beginner
 author: LordMerc
 readTime: 5
 heroImage: images/hero.jpg
+nextGuide: weapon-variants
 ---
 
 # Getting Started with Forging
