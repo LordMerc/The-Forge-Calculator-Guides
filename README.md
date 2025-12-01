@@ -35,17 +35,17 @@ Your guide content here...
 
 ### Frontmatter Fields
 
-| Field | Required | Description |
-|-------|----------|-------------|
-| `title` | ✅ Yes | The guide title |
-| `description` | ✅ Yes | Short description for the guide card |
-| `category` | ✅ Yes | Category (Beginner, Advanced, Reference, etc.) |
-| `author` | ✅ Yes | Your name or username |
-| `readTime` | No | Estimated read time in minutes (default: 5) |
-| `heroImage` | No | Hero image path (relative to this repo) |
-| `order` | No | Sort order within category (lower = first) |
-| `nextGuide` | No | Slug of the next guide (filename without .md) |
-| `prevGuide` | No | Slug of the previous guide |
+| Field         | Required | Description                                    |
+| ------------- | -------- | ---------------------------------------------- |
+| `title`       | ✅ Yes   | The guide title                                |
+| `description` | ✅ Yes   | Short description for the guide card           |
+| `category`    | ✅ Yes   | Category (Beginner, Advanced, Reference, etc.) |
+| `author`      | ✅ Yes   | Your name or username                          |
+| `readTime`    | No       | Estimated read time in minutes (default: 5)    |
+| `heroImage`   | No       | Hero image path (relative to this repo)        |
+| `order`       | No       | Sort order within category (lower = first)     |
+| `nextGuide`   | No       | Slug of the next guide (filename without .md)  |
+| `prevGuide`   | No       | Slug of the previous guide                     |
 
 ### Adding Images
 
@@ -70,6 +70,7 @@ Your guide content here...
 ## 🏷️ Categories
 
 Current categories:
+
 - **Beginner** - For new players
 - **Advanced** - Complex strategies
 - **Reference** - Data tables and lookups
