@@ -1,7 +1,7 @@
 ---
 title: Secret Quests
 description: This guide will show some hidden quests in the game!
-category: Beginner
+category: Reference
 author: LordMerc
 readTime: 5
 heroImage: images/hero.jpg
