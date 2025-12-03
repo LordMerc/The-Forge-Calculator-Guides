@@ -89,6 +89,32 @@ Full sets using **Chestplate + Leggings + Helmet**:
 
 ---
 
+## Colossal Sword Builds
+
+### End Game Colossal Swords
+
+| Build         | Ores                                             | Multiplier | Key Stats                                                                                      |
+| ------------- | ------------------------------------------------ | ---------- | ---------------------------------------------------------------------------------------------- |
+| **Best DPS**  | 16 Darkryte, 12 Magmaite, 12 Eye Ore, 12 Fireite | 5.05x      | 50.00% AOE Explosion, 35.00% Crit, 15.00% Weapon Dmg, -10.00% Health, 20.00% Burn, 30.00% Crit |
+| **Alt Build** | 16 Demonite, 12 Magmaite, 12 Eye Ore, 12 Fireite | 4.81x      | 50.00% AOE Explosion, 35.00% Crit, 15.00% Weapon Dmg, -10.00% Health, 20.00% Burn, 30.00% Crit |
+
+### Mid Game Colossal Swords
+
+| Build          | Ores                                             | Multiplier | Key Stats                                                                                |
+| -------------- | ------------------------------------------------ | ---------- | ---------------------------------------------------------------------------------------- |
+| **Standard**   | 12 Eye Ore, 12 Magmaite, 12 Fireite, 12 Rivalite | 4.21x      | 20.00% Crit Chance, 50.00% AOE Explosion, 35.00% Crit, 15.00% Weapon Dmg, -10.00% Health |
+| **High Multi** | 24 Eye Ore, 24 Rivalite                          | 4.00x      | 15.00% Weapon Dmg, -10.00% Health, 20.00% Crit Chance                                    |
+
+### Early/Mid Game Colossal Swords
+
+| Build      | Ores       | Multiplier | Key Stats                         |
+| ---------- | ---------- | ---------- | --------------------------------- |
+| **28 Ore** | 28 Eye Ore | 4.00x      | 15.00% Weapon Dmg, -10.00% Health |
+
+> 💡 **Colossal Swords** have lower combo (2 hits) but massive single-hit damage. They're excellent for burst damage and stagger.
+
+---
+
 ## Gauntlet Builds
 
 ### End Game Gauntlets
