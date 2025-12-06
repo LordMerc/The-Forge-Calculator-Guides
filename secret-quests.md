@@ -1,5 +1,5 @@
 ---
-title: Secret Quests
+title: Secret Quests!
 description: This guide will show some hidden quests in the game!
 category: Reference
 author: LordMerc
